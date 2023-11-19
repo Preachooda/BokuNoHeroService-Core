@@ -1,0 +1,2 @@
+# BokuNoHeroService-Core
+BokuNoHeroService-Core
